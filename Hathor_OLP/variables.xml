@@ -869,7 +869,7 @@
 					<p>Obývané     9Tails gangem s rychlým respawnem nových členů</p>
 				</SUMMARY_LINE_2>
 				<SUMMARY_LINE_3>
-					<p>Několik nových žoldáckých/mercenary kontraktů vás nasměrují do těchto zařízení, včetně neověřených/unverified kontraktů</p>
+					<p>Několik nových mercenary kontraktů vás nasměrují do těchto zařízení, včetně neověřených/unverified kontraktů</p>
 				</SUMMARY_LINE_3>
 				<SUMMARY_LINE_4>
 					<p>Aberdeen &amp; Daymar mají 2 zařízení Orbital Laser Platforms (OLP)</p>
@@ -908,61 +908,61 @@
 					<p>HLAVNÍ CÍL</p>
 				</STAGE_1_OBJECTIVE_TITLE>
 				<STAGE_1_OBJECTIVE>
-					<p>Získejte 3 "alignment blades" pro každou lokaci k aktivaci kontrolního disku na PAF-I, PAF-II &amp; PAF-III</p>
+					<p>Získejte 3 "alignment blades" pro každou lokaci k aktivaci kontrolního disku na PAF-I, PAF-II &amp; PAF-III.</p>
 				</STAGE_1_OBJECTIVE>
 				<STAGE_1_1>
 					<p>
-						Look for maintenance kiosks in smaller buildings to open blue garage doors that provide loot rooms or access to a security kiosk
+						Hledejte maintenance terminály v malých budovách, abyste mohli otevřít modrá garážová vrata, za kterými najdete loot nebo přístup k security terminálům.
 						</p>
 				</STAGE_1_1>
 				<STAGE_1_2>
-					<p>Printing PAF Maintenace Keys &amp; PAF Security Keys has a 45 minute cooldown</p>
+					<p>Tisk PAF Maintenace klíčů &amp; PAF Security klíčů má 45 minut cooldown.</p>
 					<p></p>
-					<p>When you have 3 Security Keys head to the base of the antenna building to access the Security, Comms &amp; Admin rooms
+					<p>Až budete mít 3 Security klíče, vydejte se do budovy s anténou, kde se nacházejí Security, Comms &amp; Admin místnosti.
 						</p>
 					<p></p>
-					<p>Acquire the Alignment Blades from each room (Blade respawn timer unknown)</p>
+					<p>Z každé místnosti získejte alignment blady (respawn čas bladů není znám).</p>
 				</STAGE_1_2>
 				<STAGE_1_3>
-					<p>When you have 3 Security Keys head to the base of the antenna building to access the Security, Comms &amp; Admin rooms
+					<p>Až budete mít 3 Security klíče, vydejte se do budovy s anténou, kde se nacházejí Security, Comms &amp; Admin místnosti.
 						</p>
 				</STAGE_1_3>
 				<STAGE_1_4>
-					<p>Acquire the Alignment Blades from each room (Blade respawn timer unknown)</p>
+					<p>Z každé místnosti získejte alignment blady (respawn čas bladů není znám).</p>
 				</STAGE_1_4>
 				<STAGE_1_5>
-					<p>Insert each blade into the Dish Control console (1 minute cycle time) - This will wake </p>
-					<p>Juvenile Valakkar around the controls</p>
+					<p>Každý blade vložte do kontrolní koncole pro disk (minutový interval) - Tento proces probudí </p>
+					<p>Juvenile Valakkar v okolí konzolí.</p>
 				</STAGE_1_5>
 				<STAGE_1_6>
-					<p>When dish is aligned, the charging station door opposite will open</p>
+					<p>Jakmile je disk zarovnán, na protější straně se otevřou dveře k nabíjecí stanici.</p>
 				</STAGE_1_6>
 				<STAGE_1_7>
-					<p>Take the GP-XP Battery up to OLP (MaxLift needed at 1g)</p>
+					<p>Vemte GP-XP baterii nahoru na OLP (zapotřebí je MaxLift kvůli 1g)</p>
 				</STAGE_1_7>
 				<STAGE_1_PARKOUR_NOTE>
-					<p>DON’T WASTE A KEY WHEN YOU CAN PARKOUR!</p>
+					<p>NEPLÝTVEJTE KLÍČEM, VYZKOUŠEJTE PARKOUR!</p>
 				</STAGE_1_PARKOUR_NOTE>
 				<ITEM_PAF_KEYS>
-					<p>PAF KEYS</p>
+					<p>PAF KLÍČE</p>
 				</ITEM_PAF_KEYS>
 				<ITEM_ALIGNMENT_BLADE>
-					<p>Alignment blade</p>
+					<p>alignment blade</p>
 				</ITEM_ALIGNMENT_BLADE>
 				<STAGE_2_NUM>
-					<p>STAGE 2</p>
+					<p>FÁZE 2</p>
 				</STAGE_2_NUM>
 				<STAGE_2_TITLE>
-					<p>Orbital laser platform</p>
+					<p>ORBITÁLNÍ LASER PLATFORMA</p>
 				</STAGE_2_TITLE>
 				<STAGE_2_OBJECTIVE_TITLE>
-					<p>MAIN OBJECTIVE</p>
+					<p>HLAVNÍ CÍL</p>
 				</STAGE_2_OBJECTIVE_TITLE>
 				<STAGE_2_OBJECTIVE>
-					<p>Power up the laser &amp; obtain the Laser Activation Key</p>
+					<p>Nastartujte laser &amp; a získejte Laser Activation Key (laserový aktivařní klíč).</p>
 				</STAGE_2_OBJECTIVE>
 				<STAGE_2_SIDE_TITLE>
-					<p>SIDE INTEREST</p>
+					<p>VEDLEJŠÍ ÚKOL</p>
 				</STAGE_2_SIDE_TITLE>
 				<STAGE_2_SIDE>
 					<p>2 OLP Storage Key printers in the main control area to access the 4 Storage Rooms</p>
